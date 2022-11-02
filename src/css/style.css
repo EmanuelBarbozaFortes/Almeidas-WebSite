@@ -7,7 +7,7 @@ body{
     min-height: 100vh;
     font-family: 'Barlow Condensed', sans-serif;
     background: url(/src/image/textura.jpg);
-    background-position: 50% 50%;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
